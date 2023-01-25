@@ -1,7 +1,13 @@
+import { observer } from "mobx-react-lite";
 import { Link } from "react-router-dom";
 import { Container, Header, Segment, Image, Button } from "semantic-ui-react";
+import { useStore } from "../../app/stores/store";
+import LoginForm from "../users/LoginForm";
+import RegisterForm from "../users/RegisterForm";
 
-export default function Homepage() {
+export default observer(function Homepage() {
+    const { userStore, modalStore } = useStore();
+
     return (
         <Segment inverted textAlign='center' vertical className='masthead'>
             <Container text>
@@ -9,12 +15,26 @@ export default function Homepage() {
                     <Image size='massive' src='/assets/logo.png' alt='logo' style={{ marginBottom: 12 }} />
                     Aktivitäten
                 </Header>
-                <Header as='h2' inverted content='Willkommen zu Aktivitäten'>
-                    <Button as={Link} to='/activities' size='huge' inverted>
-                        Aktivitäten anzeigen
-                    </Button>
-                </Header>
+                {userStore.isLoggedIn ? (
+                    <>
+                        <Header as='h2' inverted content='Willkommen zu Aktivitäten' />
+                        <Button as={Link} to='/activities' size='huge' inverted>
+                            Aktivitäten aufrufen!
+                        </Button>
+                    </>
+
+                ) : (
+                    <>
+                        <Button onClick={() => modalStore.openModal(<LoginForm />)} size='huge' inverted>
+                            Anmeldung
+                        </Button>
+                        <Button onClick={() => modalStore.openModal(<RegisterForm />)} size='huge' inverted>
+                            Register
+                        </Button>
+                    </>
+
+                )}
             </Container>
-        </Segment>
+        </Segment >
     )
-}
+})

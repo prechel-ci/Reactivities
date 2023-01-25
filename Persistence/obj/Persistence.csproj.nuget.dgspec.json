@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "G:\\demo\\Reactivities\\Persistence\\Persistence.csproj": {}
+    "E:\\demo\\Reactivities\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "G:\\demo\\Reactivities\\Domain\\Domain.csproj": {
+    "E:\\demo\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\demo\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\demo\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "G:\\demo\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "E:\\demo\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\e.prechel\\.nuget\\packages\\",
-        "outputPath": "G:\\demo\\Reactivities\\Domain\\obj\\",
+        "outputPath": "E:\\demo\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\e.prechel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -28,8 +28,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
-          "C:\\Program Files\\dotnet\\library-packs": {}
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -72,22 +73,22 @@
         }
       }
     },
-    "G:\\demo\\Reactivities\\Persistence\\Persistence.csproj": {
+    "E:\\demo\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\demo\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "E:\\demo\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "G:\\demo\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "E:\\demo\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\e.prechel\\.nuget\\packages\\",
-        "outputPath": "G:\\demo\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "E:\\demo\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\e.prechel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -96,15 +97,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
-          "C:\\Program Files\\dotnet\\library-packs": {}
+          "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "G:\\demo\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "G:\\demo\\Reactivities\\Domain\\Domain.csproj"
+              "E:\\demo\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\demo\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }
