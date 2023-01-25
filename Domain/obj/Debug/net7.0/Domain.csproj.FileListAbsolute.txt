@@ -10,3 +10,15 @@ E:\demo\Reactivities\Domain\obj\Debug\net7.0\Domain.dll
 E:\demo\Reactivities\Domain\obj\Debug\net7.0\refint\Domain.dll
 E:\demo\Reactivities\Domain\obj\Debug\net7.0\Domain.pdb
 E:\demo\Reactivities\Domain\obj\Debug\net7.0\ref\Domain.dll
+G:\demo\Reactivities\Domain\bin\Debug\net7.0\Domain.deps.json
+G:\demo\Reactivities\Domain\bin\Debug\net7.0\Domain.dll
+G:\demo\Reactivities\Domain\bin\Debug\net7.0\Domain.pdb
+G:\demo\Reactivities\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+G:\demo\Reactivities\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\demo\Reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+G:\demo\Reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+G:\demo\Reactivities\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+G:\demo\Reactivities\Domain\obj\Debug\net7.0\Domain.dll
+G:\demo\Reactivities\Domain\obj\Debug\net7.0\refint\Domain.dll
+G:\demo\Reactivities\Domain\obj\Debug\net7.0\Domain.pdb
+G:\demo\Reactivities\Domain\obj\Debug\net7.0\ref\Domain.dll
