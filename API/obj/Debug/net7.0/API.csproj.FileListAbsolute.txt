@@ -190,3 +190,5 @@ E:\demo\Reactivities\api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 E:\demo\Reactivities\api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
 E:\demo\Reactivities\api\bin\Debug\net7.0\Infrastructure.dll
 E:\demo\Reactivities\api\bin\Debug\net7.0\Infrastructure.pdb
+E:\demo\Reactivities\API\bin\Debug\net7.0\CloudinaryDotNet.dll
+E:\demo\Reactivities\API\bin\Debug\net7.0\Newtonsoft.Json.dll
