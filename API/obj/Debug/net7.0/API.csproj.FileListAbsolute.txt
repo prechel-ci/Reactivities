@@ -188,3 +188,5 @@ E:\demo\Reactivities\api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
 E:\demo\Reactivities\api\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\demo\Reactivities\api\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 E:\demo\Reactivities\api\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\demo\Reactivities\api\bin\Debug\net7.0\Infrastructure.dll
+E:\demo\Reactivities\api\bin\Debug\net7.0\Infrastructure.pdb
