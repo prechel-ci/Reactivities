@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9G9COm5zOuaeKQTS+z+mtuucCWpotNHgWsrbz2xm4B9OqPncTgpxlGpKlGgcbUL37FzVxhtdiC+JkvwGQs/BfA==",
+  "dgSpecHash": "rezK/elsbkGdBVetHCpRssHvJ4jLK/3vLgobFuM54GApyGHqvPDekwqzlEcq68ELr1PasRnFDXrKPiziAiJxMw==",
   "success": true,
   "projectFilePath": "E:\\demo\\Reactivities\\api\\API.csproj",
   "expectedPackageFiles": [
@@ -55,6 +55,8 @@
     "C:\\Users\\e.prechel\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\e.prechel\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\e.prechel\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\e.prechel\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\e.prechel\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.1\\npgsql.entityframeworkcore.postgresql.7.0.1.nupkg.sha512",
     "C:\\Users\\e.prechel\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.2\\sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
     "C:\\Users\\e.prechel\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
     "C:\\Users\\e.prechel\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",

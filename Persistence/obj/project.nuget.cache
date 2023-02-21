@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gpGuwYVk0WXOzXGFOdJtpEpjBVcbDJd8Tfby/i3UnWSBij15aGqSRRj01O8ZQZNEqqW5IhGiCsMs+zFqxwLe/A==",
+  "dgSpecHash": "/ZUkoZmdGOO9EFeLQuFyEGSwEyJEIX3+1Wkljwy6Dc+62dh63lQqpNfdTX+Rv8bdY1c7dC7J2trF3bFqkCOgWA==",
   "success": true,
   "projectFilePath": "E:\\demo\\Reactivities\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
@@ -26,6 +26,8 @@
     "C:\\Users\\e.prechel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\e.prechel\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\e.prechel\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\e.prechel\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\e.prechel\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.1\\npgsql.entityframeworkcore.postgresql.7.0.1.nupkg.sha512",
     "C:\\Users\\e.prechel\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.2\\sqlitepclraw.bundle_e_sqlite3.2.1.2.nupkg.sha512",
     "C:\\Users\\e.prechel\\.nuget\\packages\\sqlitepclraw.core\\2.1.2\\sqlitepclraw.core.2.1.2.nupkg.sha512",
     "C:\\Users\\e.prechel\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.2\\sqlitepclraw.lib.e_sqlite3.2.1.2.nupkg.sha512",
